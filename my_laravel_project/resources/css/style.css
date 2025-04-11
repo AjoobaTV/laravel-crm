@@ -1,0 +1,58 @@
+/* Add custom styles here */
+body {
+    background-color: #f0f8ff; /* Light AliceBlue background */
+    color: #333; /* Dark gray text color */
+}
+
+header {
+    background-color: #343a40; /* Dark gray header */
+    color: #fff; /* White text color */
+}
+
+header a {
+    color: #fff; /* White link color in header */
+}
+
+header a:hover {
+    color: #f8f9fa; /* Light gray link color on hover */
+}
+
+footer {
+    background-color: #343a40; /* Dark gray footer */
+    color: #fff; /* White text color */
+}
+
+section#about {
+    background-color: #ffffff; /* White background for the about section */
+    color: #333; /* Dark gray text color */
+    padding: 50px 0;
+}
+
+section#about h2 {
+    color: #007bff; /* Blue headings in about section */
+}
+
+section#projects .card {
+    border: 1px solid #007bff; /* Blue border for project cards */
+}
+
+section#projects .card-body {
+    background-color: #ffffff; /* White background for card body */
+}
+
+section#projects .btn-primary {
+    background-color: #007bff; /* Blue button */
+    border-color: #007bff; /* Blue border */
+}
+
+section#projects .btn-primary:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+section#contact a {
+    color: #007bff; /* Blue links in contact section */
+}
+
+section#contact a:hover {
+    color: #0056b3; /* Darker blue links on hover */
+}
