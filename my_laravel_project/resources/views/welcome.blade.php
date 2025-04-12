@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome</title>
+    <title>elcme</title>
     <link rel="stylesheet" href="{{ asset('css/app.css') }}"> <!-- Link to your CSS file if needed -->
     <style>
         body {
@@ -11,6 +11,7 @@
             text-align: center;
             margin-top: 50px;
             background-color: #f7f7f7;
+            
         }
         h1 {
             color: #4CAF50;
